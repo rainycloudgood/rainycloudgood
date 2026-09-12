@@ -30,7 +30,7 @@
 
 ---
  
-## 📌 About Me
+## 📌 제 정보요?
  
 ```json
 developer = {
@@ -70,7 +70,7 @@ developer = {
 | 프로젝트 | 설명 | 기간 | 스택 |
 |---|---|---|---|
 | 옥상 (Oksang) | 베리타스의 이름으로 진행한 교내 익명 커뮤니티 앱. 동물 아바타 기반 익명 시스템, 다중 관리자(학교별) 구조 설계 | 완료, 유지보수 진행중! | Flutter, Firebase |
-| SubPlan | 국내 서브컬처 행사 정보 정리 플랫폼. 실시간 커뮤니티, 부스 지도, 관리자 패널 구현 | 진행중 | HTML, Firebase(차후 Supabase로 이관계획), 앱 포팅기획중 |
+| SubPlan | 국내 서브컬처 행사 정보 정리 플랫폼. 실시간 커뮤니티, 부스 지도, 관리자 패널 구현 | 중 | HTML, Firebase(차후 Supabase로 이관계획), 앱 포팅기획중 |
 
 ---
 
@@ -92,8 +92,8 @@ developer = {
 
 <br/><br/>
 
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frainycloudgood%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
+<a href="https://github.com/rainycloudgood">
+  <img src="https://komarev.com/ghpvc/?username=rainycloudgood&style=for-the-badge&color=181717&label=VISITORS">
 </a>
 
 ---
@@ -102,7 +102,7 @@ developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rainycloudgood&bg_color=60,000000,&title_color=000000&text_color=000000" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainycloudgood&layout=compact&bg_color=60,000000,&title_color=000000&text_color=000000" />
+![GitHub Stats Card](https://ghstats.dev/api/card?username=rainycloudgood&theme=midnight&hide=grade%2Cactive_day%2Cavg%2Cfollowers%2Ctrend%2Cweek%2Cstreak%2Chours%2Crepos)
+![Top Languages](https://ghstats.dev/api/langs?username=rainycloudgood&theme=midnight)
 
 </div>
