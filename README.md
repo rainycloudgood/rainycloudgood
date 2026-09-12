@@ -18,12 +18,12 @@
  
 ## 📌 제 정보요?
  
-```json
+```python
 developer = {
     "name"   : "정유준 (JEONG YUJUN)",
     "role"   : "Backend Developer interested in AI & Security",
     "message": "즐거운 여행 되시길",
-    "club"   : "베리타스 코딩 동아리 활동 중...?", 
+    "club"   : "베리타스 코딩 동아리 부장이에요"
 }
 ```
  
