@@ -1,27 +1,13 @@
 <div align="center">
 
 <!--
-  대문 배너 문구 옵션 (원하는 걸로 text= 부분 교체, 공백은 %20)
-  1) 미래를%20향한%20도전
-  2) 홀로서기%20중인%20개발자
-  3) 오늘도%20한%20줄씩%20성장중
+  
 -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1df3e9,100:ff00b7&height=120&text=미래를%20향한%20도전&animation=false&fontColor=ffffff&fontSize=60" />
 
 </div>
 
-<!--
-  자기소개 문구 옵션 (하나 골라서 아래 h2 밑 문단에 넣기)
 
-  A. 프론트도 백엔드도 아직 정하진 않았지만, 만들고 싶은 게 있으면 일단 코드부터 여는 사람입니다.
-     학교에 이 정도로 진심인 동료가 없어서 대부분의 것들을 혼자 부딪히며 배우고 있어요.
-
-  B. "일단 만들어보고 고친다"를 신조로 삼는 학생 개발자입니다.
-     프론트엔드, 백엔드 가리지 않고 필요한 걸 배우면서 서비스를 끝까지 완성해보는 걸 목표로 해요.
-
-  C. 아이디어가 생기면 바로 레포부터 만드는 편입니다.
-     아직 학교에서는 이 정도로 진심인 동료를 못 만나서, 혼자 삽질하며 실력을 쌓아가는 중이에요.
--->
 
 ## 👋 반가워요! 저는요...!
 
@@ -37,7 +23,7 @@ developer = {
     "name"   : "정유준 (JEONG YUJUN)",
     "role"   : "Backend Developer interested in AI & Security",
     "message": "즐거운 여행 되시길",
-    "club"   : "베리타스 코딩 동아리 활동 중...?"
+    "club"   : "베리타스 코딩 동아리 활동 중...?", 
 }
 ```
  
@@ -65,7 +51,7 @@ developer = {
 
 ## 🚀 Projects
 
-<!-- 기간(기간 열)은 정확히 아는 값으로 채워 넣어줘 -->
+
 
 | 프로젝트 | 설명 | 기간 | 스택 |
 |---|---|---|---|
@@ -76,7 +62,7 @@ developer = {
 
 ## 🏅 Awards & Certifications
 
-<!-- 아래는 예시 형식이야. 자격증/수상 내역을 실제 값으로 채워 넣어줘 -->
+
 
 | 구분 | 내용 | 일자 |
 |---|---|---|
@@ -88,12 +74,6 @@ developer = {
 
 <a href="mailto:rainycloud0211@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/rainycloudgood">
-  <img src="https://komarev.com/ghpvc/?username=rainycloudgood&style=for-the-badge&color=181717&label=VISITORS">
 </a>
 
 ---
